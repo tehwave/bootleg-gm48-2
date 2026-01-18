@@ -2,8 +2,6 @@
 
 **An endless runner about the obstacles that keep delaying GM48**
 
----
-
 ## About
 
 *Echo of the Forty Eight* is an endless runner created for the **Bootleg GM48 #2** game jam.
